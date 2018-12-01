@@ -1,7 +1,8 @@
-public class AglioOlio extends Pasta {
+public class Margaritha extends Pizza {
 
-    public AglioOlio() {
-        setPrice(25);
+    public Margaritha() {
+
+        setPrice(30);
         setWeight(2);
     }
 

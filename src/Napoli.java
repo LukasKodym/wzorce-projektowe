@@ -1,8 +1,10 @@
-public class Arabiata extends Pasta {
+public class Napoli extends Pizza {
 
-    public Arabiata() {
-        setPrice(20);
+    public Napoli() {
+
+        setPrice(40);
         setWeight(1);
+
     }
 
     @Override
