@@ -1,6 +1,7 @@
 public class Margaritha extends Pizza {
 
     public Margaritha() {
+        super();
 
         setPrice(30);
         setWeight(2);

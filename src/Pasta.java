@@ -1,7 +1,7 @@
 public abstract class Pasta implements Dish{
 
-    private int price = 0;
-    private int weight = 0;
+    private int price;
+    private int weight;
 
     public int getPrice() {
         return price;
