@@ -7,6 +7,9 @@ public class AglioOlio extends Pasta {
 
     @Override
     public String description() {
-        return null;
+
+        String description = "Bardzo dobtry makaron";
+
+        return description;
     }
 }
