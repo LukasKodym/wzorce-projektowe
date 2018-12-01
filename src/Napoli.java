@@ -1,10 +1,8 @@
 public class Napoli extends Pizza {
 
-    public Napoli() {
 
-        setPrice(40);
-        setWeight(1);
-
+    public Napoli(int price, int weight) {
+        super(price, weight);
     }
 
     @Override

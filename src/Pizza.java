@@ -3,7 +3,7 @@ public abstract class Pizza implements Dish {
     private int price;
     private int weight;
 
-    public Pizza() {
+    public Pizza(int price, int weight) {
         this.price = price;
         this.weight = weight;
     }

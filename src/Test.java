@@ -2,7 +2,7 @@ public class Test {
 
     public static void main(String[] args) {
 
-        Pizza pizza = new Margaritha();
+        Pizza pizza = new Margaritha(20,1);
 
         int price = pizza.getPrice();
 

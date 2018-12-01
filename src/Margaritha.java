@@ -1,10 +1,8 @@
 public class Margaritha extends Pizza {
 
-    public Margaritha() {
-        super();
 
-        setPrice(30);
-        setWeight(2);
+    public Margaritha(int price, int weight) {
+        super(price, weight);
     }
 
     @Override
