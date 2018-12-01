@@ -13,8 +13,5 @@ public class Test {
         String description = pasta.description();
 
         System.out.println("Cena PLN: " +price1 +  ", Waga w kg: " +  + weight + ", Opis: " + description);
-
-
     }
-
 }

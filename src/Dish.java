@@ -1,8 +1,6 @@
 public interface Dish {
 
-    public String description();
-
-
+    String description();
 
 }
 
